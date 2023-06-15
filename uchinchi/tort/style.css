@@ -1,0 +1,367 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;   
+}
+.no{
+    width: 350px;
+    height: 800px;
+}
+.o{
+position: absolute;
+top: 1.5%;
+left:0.1% ;
+}
+.bir {
+
+right: 75%;
+
+bottom: 7%;
+margin-top: 2%;
+margin-left: 2%;
+}
+.uch{
+margin-top:-50px;
+margin-left: 156px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 33px;
+line-height: 50px;
+letter-spacing: 0.05em;
+color: #00302E;
+}
+.uy{
+margin-top: 312px;
+margin-left: 43px;
+}
+.olti{
+    margin-top: -20px;
+    margin-left: -30px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    width: 260px;
+    height: 40px;
+    background: #EFEFEF;
+}
+.besh{
+    margin-top: 312px;
+    margin-left: 63px;
+}
+.a{
+    height: 60px;
+    background: #EFEFEF;
+border-radius: 12px
+}
+.yetti{
+    position: absolute;
+    top: 496px;
+    left: 43px;
+}
+.sakkiz{
+    position: absolute;
+    top: 500px;
+    left: 73px;
+}
+.toqqiz{
+    position: absolute;
+    top: 570px;
+    left: 43px;
+}
+.on{
+    position: absolute;
+    top: 570px;
+    left: 73px;
+}
+.ru{
+    position: absolute;
+    top: 640px;
+    left: 43px;
+}
+.na{
+    position: absolute;
+    top: 640px;
+    left: 73px;
+}
+.nol{
+    width: 20px;
+    border: 1px solid;
+    background-color: green;
+    border-radius: 5px;
+    position: absolute;
+    top: 570px;
+    left: 150px;
+}
+.nul{
+    width: 20px;
+    border: 1px solid;
+    background-color:orange;
+    border-radius: 5px;
+    position: absolute;
+    top: 640px;
+    left: 150px;
+}
+.bor{
+    width: 1000px;
+    height: 800px;
+    position: absolute;
+    top: 1px;
+    left: 350px;
+}
+.bir1{
+    position: absolute;
+    top: 40px;
+    left: 30px;
+}
+.ikki1{
+    position: absolute;
+    top: 90px;
+    left: 29px;
+}
+.uch1{
+    position: absolute;
+    top: 60px;
+    left: 600px;
+}
+.bir2{
+    width: 160px;
+    height: 210px;
+    position: absolute;
+    top: 300px ;
+    left: 60px;
+}
+.st{
+   position: absolute;
+   top: 310px;
+   left: 95px;
+}
+.or{
+    position: absolute;
+    top: 400px;
+    left: 70px;
+ }
+ .po{
+    position: absolute;
+    top: 420px;
+    left: 70px;
+ }
+ .mo{
+    position: absolute;
+    top: 480px;
+    left: 60px;
+ }
+ .ho{
+    border: 1px;
+    color: green;
+    position: absolute;
+    top: 485px;
+    left: 145px;
+ }
+ .tenx{
+    position: absolute;
+    top: 310px;
+    left: 290px;
+ }
+ .bir3{
+    width: 160px;
+    height: 210px;
+    position: absolute;
+    top: 1px ;
+    left: -20px;
+}
+.mos{
+    position: absolute;
+    top: 170px;
+    left: -15px;
+ }
+ .hos{
+    position: absolute;
+    top: 180px;
+    left: 40px;
+    color: green;
+ }
+ .tenx1{
+    position: absolute;
+    top: 310px;
+    left: 505px;
+ }
+ .tenx5{
+    position: absolute;
+    top: 560px;
+    left: 505px;
+ }
+ .tenx6{
+    position: absolute;
+    top: 560px;
+    left: 80px;
+ }
+ .tenx7{
+    position: absolute;
+    top: 560px;
+    left: 295px;
+ }
+ .mext{
+    width: 850px;
+    height: 700px;
+    background: rgba(196, 196, 196, 0.42);
+    position: absolute;
+    top:10px;
+    left: -410px;
+ }
+ .r{
+    position: absolute;
+width: 750px;
+height: 750px;
+left: -360px;
+top: 1px;
+    background: rgba(196, 196, 196, 0.42);
+ }
+ .hor{
+    position: absolute;
+    top: 170px;
+    left: 60px;
+    color: green;
+ }
+ .gy{
+    position: absolute;
+width: 600px;
+height: 900px;
+left: 740px;
+top: 4px;
+
+background: #FFFFFF;
+ }
+ .yur{
+    position: absolute;
+width: 230px;
+height: 230px;
+left: 62px;
+top: 32px;
+ }
+ .nru{
+    position: absolute;
+width: 269px;
+height: 33px;
+left: 812px;
+top: 290px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 33px;
+ }
+ .qr{
+    position: absolute;
+width: 394px;
+height: 162px;
+left: 752px;
+top: 350px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 27px;
+text-align: center;
+ }
+ .lp{
+    position: absolute;
+width: 112px;
+height: 33px;
+left: 780px;
+top: 543px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 33px;
+ }
+ .ki{
+    position: absolute;
+width: 93px;
+height: 33px;
+left: 931px;
+top: 543px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 33px;
+ }
+ .jn{
+    position: absolute;
+width: 99px;
+height: 33px;
+left: 1059px;
+top: 543px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 33px;
+ }
+ .gb{
+text-align: center;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 31px;
+line-height: 18px;
+position: absolute;
+width: 48px;
+height: 60px;
+left: 850px;
+top: 647px;
+background: #F3C294;
+ }
+ .g7{
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 31px;
+    line-height: 18px;
+    position: absolute;
+    width: 48px;
+    height: 60px;
+    left: 895px;
+    top: 647px;
+ }
+ .gq{
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 31px;
+    line-height: 18px;
+    position: absolute;
+    width: 48px;
+    height: 60px;
+    left: 940px;
+    top: 647px;
+    background: #F3C294;
+ }
+ .xz{
+position: absolute;
+width: 74px;
+height: 14px;
+left: 1064px;
+top: 743px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 57px;
+text-align: center;
+color: #FBFBFB;
+width: 144px;
+height: 60px;
+left: 1019px;
+top: 650px;
+background: #00302E;
+ }

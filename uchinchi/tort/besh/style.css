@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;   
+}
+.no{
+    width: 350px;
+    height: 800px;
+}
+.o{
+position: absolute;
+top: 1.5%;
+left:0.1% ;
+}
+.bir {
+
+right: 75%;
+
+bottom: 7%;
+margin-top: 2%;
+margin-left: 2%;
+}
+.uch{
+margin-top:-50px;
+margin-left: 156px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 33px;
+line-height: 50px;
+letter-spacing: 0.05em;
+color: #00302E;
+}
+.uy{
+margin-top: 312px;
+margin-left: 43px;
+}
+.olti{
+    margin-top: -20px;
+    margin-left: -30px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    width: 260px;
+    height: 40px;
+    background: #EFEFEF;
+}
+.besh{
+    margin-top: 312px;
+    margin-left: 63px;
+}
+.a{
+    height: 60px;
+    background: #EFEFEF;
+border-radius: 12px
+}
+.yetti{
+    position: absolute;
+    top: 496px;
+    left: 43px;
+}
+.sakkiz{
+    position: absolute;
+    top: 500px;
+    left: 73px;
+}
+.toqqiz{
+    position: absolute;
+    top: 570px;
+    left: 43px;
+}
+.on{
+    position: absolute;
+    top: 570px;
+    left: 73px;
+}
+.ru{
+    position: absolute;
+    top: 640px;
+    left: 43px;
+}
+.na{
+    position: absolute;
+    top: 640px;
+    left: 73px;
+}
+.nol{
+    width: 20px;
+    border: 1px solid;
+    background-color: green;
+    border-radius: 5px;
+    position: absolute;
+    top: 570px;
+    left: 150px;
+}
+.nul{
+    width: 20px;
+    border: 1px solid;
+    background-color:orange;
+    border-radius: 5px;
+    position: absolute;
+    top: 640px;
+    left: 150px;
+}
+.bor{
+    width: 700px;
+    height: 800px;
+    position: absolute;
+    top: 1px;
+    left: 350px;
+    background: rgba(251, 221, 187, 0.51);
+}
+.bir1{
+    position: absolute;
+    top: 40px;
+    left: 30px;
+}
+.ikki1{
+    position: absolute;
+    top: 90px;
+    left: 29px;
+}
+.uch1{
+    position: absolute;
+    top: 60px;
+    left: 600px;
+}
+.bir2{
+    width: 160px;
+    height: 210px;
+    position: absolute;
+    top: 300px ;
+    left: 60px;
+}
+.st{
+   position: absolute;
+   top: 310px;
+   left: 95px;
+}
+.or{
+    position: absolute;
+    top: 400px;
+    left: 70px;
+ }
+ .po{
+    position: absolute;
+    top: 420px;
+    left: 70px;
+ }
+ .mo{
+    position: absolute;
+    top: 480px;
+    left: 60px;
+ }
+ .ho{
+    border: 1px;
+    color: green;
+    position: absolute;
+    top: 485px;
+    left: 145px;
+ }
+ .tenx{
+    position: absolute;
+    top: 310px;
+    left: 290px;
+ }
+ .bir3{
+    width: 160px;
+    height: 210px;
+    position: absolute;
+    top: 1px ;
+    left: -20px;
+}
+.mos{
+    position: absolute;
+    top: 170px;
+    left: -15px;
+ }
+ .hos{
+    position: absolute;
+    top: 180px;
+    left: 40px;
+    color: green;
+ }
+ .tenx1{
+    position: absolute;
+    top: 310px;
+    left: 505px;
+ }
+ .tenx5{
+    position: absolute;
+    top: 560px;
+    left: 505px;
+ }
+ .tenx6{
+    position: absolute;
+    top: 560px;
+    left: 80px;
+ }
+ .tenx7{
+    position: absolute;
+    top: 560px;
+    left: 295px;
+ }

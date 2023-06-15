@@ -1,0 +1,73 @@
+.rasm{
+    position: absolute;
+    width: 764px;
+    height: 900px;
+}
+.katta{
+    position: absolute;
+width: 214px;
+height: 33px;
+left: 962px;
+top: 178px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 27px;
+line-height: 33px;
+color: #00302E;
+}
+.text{
+    position: absolute;
+    top:350px;
+    left: 800px;
+    width: 400px;
+    height: 50px;
+}
+.text1{
+    position: absolute;
+    top:450px;
+    left: 800px;
+    width: 400px;
+    height: 50px;
+}
+.text2{
+    position: absolute;
+    top:550px;
+    left: 800px;
+    width: 400px;
+    height: 50px;
+    background-color: #00302E;
+    color:white;
+}
+.text3{
+    position: absolute;
+    top:580px;
+    left: 800px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 33px;
+    text-align: center;
+    color: rgba(0, 48, 46, 0.91);
+}
+.text4{
+    display: flex;
+    position: absolute;
+    top:580px;
+    left: 910px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 33px;
+    text-align: center;
+    color: rgba(0, 48, 46, 0.91);
+}
+.text9{
+    position: absolute;
+    top:250px;
+    left: 800px;
+    width: 400px;
+    height: 50px;
+}
